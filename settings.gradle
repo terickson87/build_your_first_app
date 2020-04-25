@@ -1,0 +1,2 @@
+rootProject.name='Build Your Fist App'
+include ':app'
